@@ -10,5 +10,5 @@ To make the ball move I used the InputSystem packege in Unity to take the inputs
 # Some text to finish it up
 To keep the player informed I added a text to the game that would display how many collectables the player already collected and if he would collect all of them a text saying 'You WIN!' would be displayed.
 
-#Playable version WebGL
+# Playable version WebGL
 Try out the playable version of this game here: [Roll-a-ball]([http://www.example.com](https://simonfrayer.github.io/Rollaball/)https://simonfrayer.github.io/Rollaball/)
